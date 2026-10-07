@@ -22,6 +22,10 @@ techniques.
 - [Directed Acyclic Graphs](dag/)
 - [Minimum Spanning Trees](mst/)
 - [Shortest Path Algorithms](shortest_path/)
+- [Lowest Common Ancestor and Binary Lifting](lca/)
+- [Centroid Decomposition](centroid/)
+- [Heavy-Light Decomposition](hld/)
+- [Tree Rerooting](rerooting/)
 - [Advanced Range Data Structures](adv_ds/)
 
 Each topic may include both presentation slides and a handout version.
